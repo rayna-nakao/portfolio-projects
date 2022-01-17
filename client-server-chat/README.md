@@ -1,9 +1,9 @@
 # Client-Server Chat
 ### Oreogon State University, CS 372, Portfolio Project
-Functions of the chat from assignment:
+####Functions of the chat from assignment:<br />
 This chat client-server is fairly simple in design. The server doesn’t handle multiple clients, and there is only one socket connection made. You will reuse this socket for the life of the program.
 
-Specifications:
+Specifications:<br />
 Server
 1. The server creates a socket and binds to ‘localhost’ and port xxxx
 2. The server then listens for a connection
