@@ -1,6 +1,6 @@
 # Client-Server Chat
 ### Oreogon State University, CS 372, Portfolio Project
-####Functions of the chat from assignment:<br />
+#### Program requirements:<br />
 This chat client-server is fairly simple in design. The server doesn’t handle multiple clients, and there is only one socket connection made. You will reuse this socket for the life of the program.
 
 Specifications:<br />
