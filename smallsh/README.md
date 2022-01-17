@@ -1,8 +1,7 @@
 # smallsh
 ### Oreogon State University, CS 340, Portfolio Project
-Functions of the shell from assignment:
-In this assignment you will write smallsh your own shell in C. smallsh will implement a subset of features of well-known shells, such as bash. Your program will:
-
+#### Program Requirements: <br />
+In this assignment you will write smallsh your own shell in C. smallsh will implement a subset of features of well-known shells, such as bash. Your program will: <br />
 Provide a prompt for running commands
 Handle blank lines and comments, which are lines beginning with the # character
 Provide expansion for the variable $$
